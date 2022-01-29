@@ -1,6 +1,6 @@
 # My Project in CSC
 
-This list includes:
+The list includes:
 
 - BMI.py
 - BMI_PredCap.py
